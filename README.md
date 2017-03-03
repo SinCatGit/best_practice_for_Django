@@ -1,0 +1,2 @@
+# best_practice_for_Django
+Django框架最佳实践翻译
